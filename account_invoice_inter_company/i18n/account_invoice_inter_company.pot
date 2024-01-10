@@ -208,7 +208,7 @@ msgstr ""
 
 #. module: account_invoice_inter_company
 #. odoo-python
-#: code:addons/account_invoice_inter_company/models/account_move.py:0
+#: code:addons/account_invoice_inter_company/models/account_move_line.py:0
 #, python-format
 msgid ""
 "You cannot create invoice in company '%(dest_company_name)s' with product "
